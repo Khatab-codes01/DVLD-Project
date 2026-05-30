@@ -106,7 +106,7 @@ namespace DVLD.Login
                 txtPassword.Text = Password;
 
             
-                // new  Demo --!!!]
+                // ## Testing new  Demo --!!!]
                 chkRememberMe.Checked = true;
             }
             else
